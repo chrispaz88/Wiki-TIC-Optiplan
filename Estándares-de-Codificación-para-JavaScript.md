@@ -1,5 +1,4 @@
 # Estándares de codificación para Javascript
-Estandares de codificación para el lenguaje javascript
 
 ## Indice
 <!-- MarkdownTOC depth=0 autolink=true autoanchor=true -->
@@ -25,7 +24,6 @@ Estandares de codificación para el lenguaje javascript
 
 <a name="declaración-de-variables"></a>
 ## Declaración de variables
-Declarar variables es una de las cosas más importantes a la hora de codificar, por eso es necesario tener en cuenta las siguientes premisas:
 
 <a name="nombres-de-variables"></a>
 #### Nombres de variables
