@@ -1,12 +1,12 @@
 **SPRINT PLANNING**
 Objetivos
 ---
-1. Definir el Objetivo final del Sprint
-2. Definir el listado de las historias para el Sprint Backlogs
+1. Definir el Objetivo final del Sprint ✔️
+2. Definir el listado de las historias para el Sprint Backlogs 📝
 
 Duración
 --
-- 2 HRS. Para Sprints de 2 semanas
+- 2 HRS. Para Sprints de 2 semanas ⏰
 
 Participantes
 -
