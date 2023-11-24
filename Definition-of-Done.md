@@ -1,10 +1,7 @@
 **DEFINICIÓN DE HECHO**
 
-|      d |
+|  Categoría | Item   |
 |---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| Código |    |
+
 
