@@ -18,4 +18,7 @@ Antes de la Reunión
 - Velocidad y Capacidad
 - Product  Backlog
 - Acciones del pasado Retrospective
- 
+
+Anti-Patterns
+-
+- No incluir una historia al menos que sirva para que el equipo sea mas productivo y eficiente (Mejora Continua).
