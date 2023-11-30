@@ -6,6 +6,6 @@
 
 |  Categoría | Item   |
 |---|---|
-| Código |  El código cumple con las reglas de sintaxis establecidas en el documento 'Estándar de JS' versión 0.0.1 elaborado por el equipo de desarrollo.|
+| Código |  El código cumple con las reglas de sintaxis establecidas en el documento 'Estándar de Codificación para JavaScript' versión 0.0.1 elaborado por el equipo de desarrollo.|
 |  |  El código   |
 
