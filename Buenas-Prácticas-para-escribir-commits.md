@@ -1,3 +1,9 @@
+# Buenas Prácticas para escribir Commits
+**Versión:** 0.0.1
+**Autores:** Equipo de Desarrollo
+**Objetivo:** Definir y comunicar las mejores prácticas para escribir commits con el fin de mejorar la claridad, la trazabilidad y la colaboración en el desarrollo de software. Este documento tiene como objetivo establecer pautas que faciliten la comprensión del historial de cambios, la identificación de problemas y la colaboración efectiva entre los miembros del equipo.
+
+------------------------------------------------------------------------
 1. **Usa el verbo imperativo** (Add, Change, Fix, Remove, …)
 El verbo presente es una forma de expresar la acción que se realiza en el commit. Por ejemplo, _Add_ significa que se añade un nuevo archivo, _Change_ significa que se modifica un archivo existente y _Fix_ significa que se arregla un bug.
 
