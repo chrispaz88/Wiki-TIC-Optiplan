@@ -7,5 +7,8 @@
 |  Categoría | Item   |
 |---|---|
 | Código |  El código cumple con las reglas de sintaxis establecidas en el documento 'Estándar de Codificación para JavaScript' versión 0.0.1 elaborado por el equipo de desarrollo.|
-|  |  El código   |
+| Repositorio|   El entregable cumple con los criterios de aceptación.|
+| Historias Usuario|   El entregable cumple con los criterios de aceptación.|
+| Pruebas| Front  |
+| Despliegue|  Todos los pipelines automatizados en Azure han sido ejecutados con éxito, asegurando así un 100% de cumplimiento en la integración continua y en las pruebas automatizadas.   |
 
