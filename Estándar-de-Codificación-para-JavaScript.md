@@ -1,5 +1,6 @@
 # Estándares de codificación para Javascript
 
+------------------------------------------------------------------------
 ## Indice
 <!-- MarkdownTOC depth=0 autolink=true autoanchor=true -->
 
