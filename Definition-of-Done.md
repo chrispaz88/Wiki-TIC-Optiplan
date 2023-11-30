@@ -7,8 +7,8 @@
 |  Categoría | Item   |
 |---|---|
 | Código |  El código cumple con las reglas de sintaxis establecidas en el documento 'Estándar de Codificación para JavaScript' versión 0.0.1 elaborado por el equipo de desarrollo.|
-| Repositorio|  Los commits han sido escritos siguiendo el estándar definido en el documento 'Buenas Prácticas para escribir commits' versión 0.0.1 elaborado por el equipo de desarrollo.|
-| Historias Usuario|   El entregable cumple con los criterios de aceptación.|
+| Control de Versiones|  Los commits han sido escritos siguiendo el estándar definido en el documento 'Buenas Prácticas para escribir commits' versión 0.0.1 elaborado por el equipo de desarrollo.|
+| Historias Usuario|  Se ha evaluado el entregable para confirmar su cumplimiento con los criterios de aceptación establecidos.|
 | Pruebas| Front  |
 | Despliegue|  Todos los pipelines automatizados en Azure han sido ejecutados con éxito, asegurando así un 100% de cumplimiento en la integración continua y en las pruebas automatizadas.   |
 
