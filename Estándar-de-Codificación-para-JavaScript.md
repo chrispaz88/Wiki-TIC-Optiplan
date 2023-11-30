@@ -1,6 +1,11 @@
 # Estándares de codificación para Javascript
-
 ------------------------------------------------------------------------
+
+**Versión:** 0.0.1
+**Autores:** Equipo de Desarrollo
+**Objetivo:** Establecer un estándar de codificación para JavaScript que promueva la consistencia, legibilidad y mantenibilidad del código en el proyecto. Este documento tiene como objetivo proporcionar directrices claras y específicas para la escritura de código en JavaScript, asegurando una base sólida para el desarrollo colaborativo, la detección temprana de errores y la facilitación de futuras expansiones del sistema.
+
+---------------------------------------------------------------
 ## Indice
 <!-- MarkdownTOC depth=0 autolink=true autoanchor=true -->
 
