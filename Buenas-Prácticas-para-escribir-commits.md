@@ -1,18 +1,6 @@
 1. Usa el verbo imperativo (Add, Change, Fix, Remove, …)
 Aunque el mensaje puede sonar un poco borde, el verbo presente es una forma de expresar la acción que se realiza en el commit. Por ejemplo, Add significa que se añade un nuevo archivo, Change significa que se modifica un archivo existente y Fix significa que se arregla un bug.
 
-¿Quién no se ha encontrado con un historial de commits así? Fuente: xkcd.com
-¿Quién no se ha encontrado con un historial de commits así? Fuente: xkcd.com
-Sé que muchas veces estamos tentados a escribirlo en pasado “Added…”, “Fixed…” o “Removed…” pero cada commit hay que entenderlo como una instrucción para cambiar el estado del proyecto. Dicho de otro modo, el verbo presente nos permite saber qué estado queremos que el proyecto se encuentre en el momento de añadir el commit.
-
-Sólo hay que ver también los mensajes de commit que el propio Git nos añade (al hacer merge de una rama usa Merge branch).
-
-Lo mejor es que el mensaje del commit complete esta frase: “Si aplico este commit, entonces este commit…”
-
-…add a new search feature
-…fix a problem with the topbar
-…change the default system color
-…remove a random notification
 2. No uses punto final ni puntos suspensivos en tus mensajes
 Usar puntuación, más allá de las comas, es innecesario a la hora de crear un buen mensaje de commit. Cada carácter cuenta a la hora de crear un buen mensaje de commit así que no lo desperdicies con puntos innecesarios.
 
