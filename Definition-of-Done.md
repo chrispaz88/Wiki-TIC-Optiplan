@@ -14,5 +14,5 @@
 | Control de Versiones|  Los commits han sido escritos siguiendo el estándar definido en el documento 'Buenas Prácticas para escribir commits' versión 0.0.1 elaborado por el equipo de desarrollo.|
 | Historias Usuario|  Se ha evaluado el entregable para confirmar su cumplimiento con los criterios de aceptación establecidos.|
 | Pruebas|  El código ha pasado por pruebas unitarias con la meta de alcanzar un 100% de éxito en su ejecución.|
-| Despliegue|  Todos los pipelines automatizados en Azure han sido ejecutados con éxito, asegurando así un 100% de cumplimiento en la integración continua y en las pruebas automatizadas.   |
+| Despliegue|  Todos los pipelines automatizados en Azure han sido ejecutados con éxito, asegurando así un 100% de cumplimiento en la integración continua y en las pruebas automatizadas. <br><br>  El sistema esta desplegado. |
 
