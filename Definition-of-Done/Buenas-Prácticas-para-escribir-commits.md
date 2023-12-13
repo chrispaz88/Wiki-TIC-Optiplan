@@ -35,6 +35,7 @@ Cuando un proyecto crece, es necesario que existan ciertas reglas para que el hi
 | Prefijo| Descripción |
 |--|--|
 | feat | Una nueva característica para el usuario. |
+| edit | Editar o mejorar una característica. |
 | fix | Arregla un bug que afecta al usuario. |
 | perf | Cambios que mejoran el rendimiento del sitio |
 | build | Cambios en el sistema de build, tareas de despliegue o instalación. |
