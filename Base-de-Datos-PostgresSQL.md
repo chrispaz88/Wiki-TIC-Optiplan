@@ -80,5 +80,4 @@ Establezca las siguientes variables de entorno copiando y pegando las líneas si
 `export PGHOST=optiplandb.postgres.database.azure.com`
 `export PGUSER=admin_optiplan`
 `export PGPORT=5432`
-`export PGPORT=5432`
 `export PGPASSWORD="{your-password}"`
