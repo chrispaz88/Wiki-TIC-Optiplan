@@ -44,6 +44,5 @@ Cuando un proyecto crece, es necesario que existan ciertas reglas para que el hi
 | refactor|  Refactorización del código como cambios de nombre de variables o funciones.|
 | style | Cambios de formato, tabulaciones, espacios o puntos y coma, etc; no afectan al usuario. |
 | test | Añade tests o refactoriza uno existente.|
-
-
+| chore | Confirmaciones varias, p. modificando .gitignore |
 
