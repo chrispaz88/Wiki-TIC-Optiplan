@@ -1,0 +1,5 @@
+- Sprint 1: Crear tableros Kanban para la gestión de los flujos de las tareas operativas.
+- Sprint 2: Crear tableros Kanban para la gestión de los flujos de las tareas operativas.
+- Sprint 3: Gestionar el acceso a los tableros Kanban.
+- Sprint 4: Mejorar el flujo de trabajo de los tableros Kanban.
+- Sprint 5: Organizar el trabajo de la empresa. 
