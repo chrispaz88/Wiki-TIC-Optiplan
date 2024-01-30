@@ -3,3 +3,6 @@
 - Sprint 3: Gestionar el acceso a los tableros Kanban.
 - Sprint 4: Mejorar el flujo de trabajo de los tableros Kanban.
 - Sprint 5: Organizar el trabajo de la empresa. 
+- Sprint 6: Gestionar las tareas del GA. 
+- Sprint 7: Gestionar las tareas del LA. 
+- Sprint 8: Gestionar la ejecución de tareas del Técnico. 
