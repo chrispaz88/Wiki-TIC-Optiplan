@@ -4,7 +4,7 @@
 
 **Versión:**  0.0.1 
 **Autores:** Equipo de Desarrollo
-**Objetivo:** Garantizar la calidad, transparencia y entrega consistente del software desarrollado al establecer criterios claros y compartidos que definen cuándo una tarea o historia se considera completa, promoviendo así la eficiencia del equipo y la satisfacción del cliente en el proyecto web.
+**Objetivo:** Garantizar la calidad, transparencia y entrega consistente del software desarrollado al establecer criterios claros y compartidos que definen cuándo un producto de Software se encuentra terminado, promoviendo así la eficiencia del equipo y la satisfacción del cliente en el proyecto web.
 
 -------------------------------
 
