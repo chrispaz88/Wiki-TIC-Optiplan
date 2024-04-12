@@ -4,7 +4,9 @@
 - Sprint 4: Mejorar el flujo de trabajo de los tableros Kanban.
 - Sprint 5: Organizar el trabajo de la empresa. 
 - Sprint 6: Mejorar los flujos de trabajo de la empresa.
-- Sprint 7: Gestionar las tareas del GE. 
+
+- Sprint 9: Gestionar las tareas del GE. 
+
 - Sprint 8: Gestionar las tareas del GA. 
 - Sprint 9: Gestionar las tareas del LA. 
 - Sprint 10: Gestionar la ejecución de tareas del Técnico. 
