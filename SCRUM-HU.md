@@ -1,1 +1,0 @@
-LA HU Debe ser vista como REQUISITO
