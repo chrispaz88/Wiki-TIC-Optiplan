@@ -16,5 +16,8 @@
 | Pruebas|  El código ha pasado por pruebas unitarias con la meta de alcanzar un 100% de éxito en su ejecución.|
 | Despliegue|  Todos los pipelines automatizados en Azure han sido ejecutados con éxito, asegurando así un 100% de cumplimiento en la integración continua y en las pruebas automatizadas. <br><br>  El sistema se encuentra correctamente desplegado. |
 | Documentación | Se han actualizado los manuales de usuario para reflejar los nuevos cambios.   |  
-- [ ] Mercury
+
+
+
+
 
