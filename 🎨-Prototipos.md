@@ -1,1 +1,1 @@
-[https://www.figma.com/file/AckndTlIvt0N2IsVch9XyY/Kanban?type=design&node-id=248%3A22&mode=dev][Enlace]
+[Enlace a los prototipos en Figma](https://www.figma.com/file/AckndTlIvt0N2IsVch9XyY/Kanban?type=design&node-id=248%3A22&mode=dev)
