@@ -1,14 +1,12 @@
 - Sprint 1: Crear tableros Kanban para la gestión de los flujos de las tareas operativas.
-- Sprint 2: Crear tableros Kanban para la gestión de los flujos de las tareas operativas.
+- Sprint 2: 
 - Sprint 3: Gestionar el acceso a los tableros Kanban.
 - Sprint 4: Mejorar el flujo de trabajo de los tableros Kanban.
 - Sprint 5: Organizar el trabajo de la empresa. 
 - Sprint 6: Mejorar los flujos de trabajo de la empresa.
-
-
+- Sprint 7: 
+- Sprint 8:
 - Sprint 9: Gestionar las tareas del GE. 
-
-
-- Sprint 8: Gestionar las tareas del GA. 
-- Sprint 9: Gestionar las tareas del LA. 
-- Sprint 10: Gestionar la ejecución de tareas del Técnico. 
+- Sprint 10: Gestionar las tareas del GA. 
+- Sprint 11: Gestionar las tareas del LA. 
+- Sprint 12: Gestionar la ejecución de tareas del Técnico. 
