@@ -7,4 +7,5 @@
 | 3| carlos.iniguez@epn.edu.ec  | Carlos1234 | area_manager |
 | 4| glender.miranda@epn.edu.ec | Glender1234 | area_leader |
 | 5| david.leon@epn.edu.ec | David1234 | technician |
+| 6| roberto.garcia@epn.edu.ec | @Roberto01 | | 
 
