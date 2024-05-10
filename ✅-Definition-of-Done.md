@@ -39,14 +39,7 @@ EL DEFINITION DE DONE ES UNA LISTA DE COMPROBACION DEL PARA VERIFICAR LA CALIDAD
 **HISTORIAS DE USUARIO**
 
 
-- [ ]  Las historias de usuario incluyen criterios de aceptación detallados y estos son verificados por el equipo que se cumplen.
-
-
-
-**HISTORIAS DE USUARIO**
-
-
-- [ ]  Las historias de usuario incluyen criterios de aceptación detallados y estos son verificados por el equipo que se cumplen.
+- [ ]  Las historias de usuario incluyen criterios de aceptación y estos son verificados por el equipo que se cumplen.
 
 
 **PRUEBAS**
