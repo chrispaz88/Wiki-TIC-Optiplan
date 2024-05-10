@@ -7,12 +7,11 @@
 | **CATEGORÍA** | DESCRIPCIÓN |
 |--|--|
 |**Descripción Claramente Definida**  | La HU debe tener un título breve que refleje la esencia de la funcionalidad y una descripción narrativa detallada que explique el propósito, la necesidad y el resultado esperado.  |
-| **Criterios de Aceptación Especificados** | Los criterios de aceptación deben ser claros, concisos y detallados, proporcionando escenarios específicos y las condiciones bajo las cuales la HU será considerada completa.  |
-| **Estimaciones Completas** |  Cada HU debe estar acompañada de una estimación que refleje el esfuerzo y la complejidad, derivada de un consenso en el equipo y basada en experiencias anteriores o HU similares. |
+| **Criterios de Aceptación Especificados** | Los criterios de aceptación deben ser claros y detallados, proporcionando escenarios específicos y las condiciones bajo las cuales la HU será considerada completa.  |
+| **Estimaciones Completas** |  Cada HU debe estar acompañada de una estimación que refleje el esfuerzo, derivada de un consenso en el equipo y basada en experiencias anteriores o HU similares. |
 | **Diseño y UX Listos** |  Se deben haber finalizado y aprobado los diseños y prototipos correspondientes a la HU, incluyendo interacciones.  |
-| **Alcance** |  Debe haber una confirmación de que todos los recursos necesarios, como personal, tecnología y herramientas, están disponibles para el sprint en el que se trabajará la HU. |
 | **Reglas de Negocio** | Las reglas de negocio aplicables a la HU deben ser entendidas por el equipo, preferiblemente con ejemplos prácticos. |
-| **Acceso a Usuarios/Stakeholders** | Debe haber una confirmación de que los stakeholders o usuarios finales estarán disponibles para consultas y retroalimentación durante el desarrollo de la HU.. |
+| **Acceso a Usuarios/Stakeholders** | Debe haber una confirmación de que los stakeholders o usuarios finales estarán disponibles para consultas y retroalimentación durante el desarrollo de la HU. |
 
 
  
