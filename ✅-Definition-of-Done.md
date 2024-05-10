@@ -16,8 +16,12 @@
 | Pruebas|  El código ha pasado por pruebas unitarias con la meta de alcanzar un 100% de éxito en su ejecución.|
 | Despliegue|  Todos los pipelines automatizados en Azure han sido ejecutados con éxito, asegurando así un 100% de cumplimiento en la integración continua y en las pruebas automatizadas. <br><br>  El sistema se encuentra correctamente desplegado. |
 | Documentación | Se han actualizado los manuales de usuario para reflejar los nuevos cambios.   |  
+<br><br>
 
 EL DEFINITION DE DONE ES UNA LISTA DE COMPROBACION DEL PARA VERIFICAR LA CALIDAD DEL PRODUCTO QUE SEA FUNCIONAL HACIA EL INCREMENTO DEL PRODUCTO FUNCIONAL DE SOFTWARE
+<br><br>
+--------------------------------------------------------------------
+
 **Versión:**  0.0.2 
 **Autores:** Equipo de Desarrollo
 **Objetivo:** Garantizar la calidad, transparencia y entrega consistente del software desarrollado al establecer criterios claros y compartidos que definen cuándo un producto de Software se encuentra terminado, promoviendo así la eficiencia del equipo y la satisfacción del cliente en el proyecto web.
