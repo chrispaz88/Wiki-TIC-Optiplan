@@ -5,9 +5,10 @@
 
 
 Credenciales de Acceso:
-Gestor Empresarial
+**Gestor Empresarial**
 Usuario: roberto.garcia@epn.edu.ec
 Contraseña: @Roberto01
+**Gestor de Área**
 Usuario: glender.miranda@epn.edu.ec
 Contraseña: @Glender01
 
