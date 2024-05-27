@@ -8,7 +8,7 @@
 - Sprint 8:
 - Sprint 9: Gestionar las tareas del GE. 
 - Sprint 10: 
-- Sprint 11: 
+- Sprint 11: Gestionar las tareas del GA.
 - Sprint 12: Gestionar las tareas del GA. 
 - Sprint 13: Gestionar las tareas del LA. 
 - Sprint 14: Gestionar la ejecución de tareas del Técnico. 
